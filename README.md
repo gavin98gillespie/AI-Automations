@@ -1,2 +1,2 @@
 # AI-Automations
-Collection of AI-powered automations
+Collection of my AI automation projects and integrations
