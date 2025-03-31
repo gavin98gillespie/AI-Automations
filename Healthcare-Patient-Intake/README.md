@@ -23,6 +23,12 @@ An AI-powered conversation collects patient information prior to their visit. Th
 ## System Architecture
 ![Healthcare AI Architecture Diagram](assets/healthcare-ai-architecture-diagram.svg)
 
+## Web Interface
+
+The patient interaction is handled through a custom web interface built with Lovable. The complete source code for this interface is available in [this repository](https://github.com/gavin98gillespie/healthcare-voice-assistant).
+
+![Web Interface Screenshot](assets/web-interface-screenshot.png)
+
 ## n8n Workflow
 
 The automation is powered by an n8n workflow that handles the patient data processing and Notion document creation. You can view the workflow [here](n8n-workflow/Healthcare_AI_Notion.json).
