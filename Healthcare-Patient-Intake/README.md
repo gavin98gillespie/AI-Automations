@@ -1,7 +1,7 @@
 # Healthcare AI Patient Intake Automation
 
 ## Overview
-This project automates the patient intake process for healthcare clinics using conversational AI. Patients interact with an AI assistant before their appointment to provide relevant medical information, which is then structured into a clinical document in Notion for healthcare providers.
+This project automates the patient intake process for healthcare clinics using conversational AI. Patients interact with an AI assistant after scheduling their appointment to provide relevant medical information before their appointment, which is then structured into a clinical document in Notion for healthcare providers.
 
 ## Technologies Used
 - **ElevenLabs**: Conversational AI for patient interaction
@@ -11,7 +11,7 @@ This project automates the patient intake process for healthcare clinics using c
 
 ## Problem & Solution
 ### Problem
-Traditional patient intake processes are time-consuming, error-prone, and often completed in the waiting room, delaying appointments.
+Traditional patient intake processes are time-consuming, error-prone, and often completed in the waiting room, delaying appointments. Providers frequently lack access to structured, up-to-date subjective and objective data from patients before their visit, forcing them to collect this information during the limited appointment time. This reduces clinical efficiency and prevents providers from having a comprehensive understanding of why the patient is seeking care until the encounter has already begun.
 
 ### Solution
 An AI-powered conversation collects patient information prior to their visit. The system:
@@ -24,11 +24,10 @@ An AI-powered conversation collects patient information prior to their visit. Th
 [Include architecture diagram here]
 
 ## Key Features
-- **Voice & Text Interface**: Patients can speak or type responses
 - **Appointment Verification**: Confirms patient identity against schedule
 - **Structured Data Collection**: Gathers medical history, medications, symptoms
 - **Clinical Documentation**: Generates formatted documents with HPI
-- **HIPAA Compliance**: Secure handling of patient information
+- **HIPAA Compliance**: Secure handling of patient information can be easily implemented
 
 ## Demo
 [Link to video demonstration]
@@ -41,5 +40,6 @@ An AI-powered conversation collects patient information prior to their visit. Th
 
 ## Future Enhancements
 - Integration with EHR systems
+- HIPAA Compliance 
 - Multi-language support
-- Symptom severity analysis
+- Distingishment between new and exisiting patients
