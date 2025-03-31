@@ -21,7 +21,7 @@ An AI-powered conversation collects patient information prior to their visit. Th
 4. Makes information available to providers before the appointment
 
 ## System Architecture
-[Include architecture diagram here]
+![Healthcare AI Architecture Diagram](assets/healthcare-ai-architecture-diagram.svg)
 
 ## Key Features
 - **Appointment Verification**: Confirms patient identity against schedule
