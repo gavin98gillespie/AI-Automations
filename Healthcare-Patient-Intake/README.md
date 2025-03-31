@@ -27,7 +27,7 @@ An AI-powered conversation collects patient information prior to their visit. Th
 
 The patient interaction is handled through a custom web interface built with Lovable. The complete source code for this interface is available in [this repository](https://github.com/gavin98gillespie/healthcare-voice-assistant).
 
-![Web Interface Screenshot](assets/web-interface-screenshot.png)
+![Web Interface Screenshot](assets/Healthcare_AI_Webpage.png)
 
 ## n8n Workflow
 
