@@ -20,6 +20,11 @@ An AI-powered conversation collects patient information prior to their visit. Th
 3. Structures data into a clinical document
 4. Makes information available to providers before the appointment
 
+## Key Features
+- **Appointment Verification**: Confirms patient identity against schedule
+- **Structured Data Collection**: Gathers medical history, medications, symptoms, etc..
+- **Clinical Documentation**: Generates formatted documents with HPI
+
 ## System Architecture
 ![Healthcare AI Architecture Diagram](assets/healthcare-ai-architecture-diagram.svg)
 
@@ -35,12 +40,6 @@ The automation is powered by an n8n workflow that handles the patient data proce
 
 ![n8n Workflow Screenshot](assets/Healthcare_AI_Workflow.png)
 
-## Key Features
-- **Appointment Verification**: Confirms patient identity against schedule
-- **Structured Data Collection**: Gathers medical history, medications, symptoms
-- **Clinical Documentation**: Generates formatted documents with HPI
-- **HIPAA Compliance**: Secure handling of patient information can be easily implemented
-
 ## Demo
 [Link to video demonstration]
 
@@ -52,6 +51,6 @@ The automation is powered by an n8n workflow that handles the patient data proce
 
 ## Future Enhancements
 - Integration with EHR systems
-- HIPAA Compliance 
+- Integration with secure and HIPAA compliant data collection and storage systems
 - Multi-language support
 - Distingishment between new and exisiting patients
