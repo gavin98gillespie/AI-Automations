@@ -23,6 +23,12 @@ An AI-powered conversation collects patient information prior to their visit. Th
 ## System Architecture
 ![Healthcare AI Architecture Diagram](assets/healthcare-ai-architecture-diagram.svg)
 
+## n8n Workflow
+
+The automation is powered by an n8n workflow that handles the patient data processing and Notion document creation. You can view the workflow [here](n8n-workflow/Healthcare_AI_Notion.json).
+
+![n8n Workflow Screenshot](assets/Healthcare_AI_Workflow.png)
+
 ## Key Features
 - **Appointment Verification**: Confirms patient identity against schedule
 - **Structured Data Collection**: Gathers medical history, medications, symptoms
