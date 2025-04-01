@@ -40,6 +40,30 @@ The automation is powered by an n8n workflow that handles the patient data proce
 
 ![n8n Workflow Screenshot](assets/Healthcare_AI_Workflow.png)
 
+## Notion Integration
+
+The Healthcare AI Assistant automation stores all patient intake information in a structured Notion database, creating an organized system for healthcare providers to access patient information prior to appointments.
+
+### Patient Database
+
+The system automatically creates structured patient records in Notion, organizing key information in a database format for easy access:
+
+![Notion Patient Database](assets/notion-database-screenshot.png)
+
+### Individual Patient Records
+
+Each patient interaction generates a detailed document containing the complete intake information, including chief complaint, symptoms, medical history, and automatically generated HPI:
+
+![Example Patient Record](assets/notion-patient-record.png)
+
+### Key Features
+
+- **Automated Documentation:** Patient information flows directly from the conversation to structured documents
+- **Standardized Format:** All patient records follow the same professional format
+- **HPI Generation:** The system automatically creates a clinical History of Present Illness summary
+- **Searchable Database:** Providers can easily find and review patient information
+- **Status Tracking:** Each record includes a status field to track review progress
+
 ## Demo
 [Link to video demonstration]
 
