@@ -54,7 +54,9 @@ The system automatically creates structured patient records in Notion, organizin
 
 Each patient interaction generates a detailed document containing the complete intake information, including chief complaint, symptoms, medical history, and automatically generated HPI:
 
-![Example Patient Record](assets/notion-patient-record.png)
+![Patient Record Top Section](assets/patient-record-top.png)
+
+![Patient Record Bottom Section](assets/patient-record-bottom.png)
 
 ### Key Features
 
