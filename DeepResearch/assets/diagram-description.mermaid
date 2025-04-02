@@ -1,0 +1,32 @@
+flowchart TD
+    subgraph "DeepResearch 1: User Interface & Setup"
+        A[Research Request Form] --> B[Process Initial Query]
+        B --> C{Clarifying Questions}
+        C --> D[User Answers]
+        D --> C
+        D --> E[Generate Report Title]
+        E --> F[Create Notion Page]
+        F --> G[Initiate Deep Research]
+        G --> H[Confirmation]
+    end
+    
+    subgraph "DeepResearch 2: Recursive Research Core"
+        AA[Receive Research Task] --> BB[Update Status to In-Progress]
+        BB --> CC[Generate Search Queries]
+        CC --> DD[For Each Query Loop]
+        DD --> EE[Web Search via APIFY]
+        EE --> FF[Extract Content]
+        FF --> GG[Generate Learnings]
+        GG --> HH[Accumulate Results]
+        
+        HH --> II{Depth Reached?}
+        II -- No --> JJ[Generate Next-Level Queries]
+        JJ --> CC
+        
+        II -- Yes --> KK[Generate Final Report]
+        KK --> LL[Format as Notion Blocks]
+        LL --> MM[Upload to Notion]
+        MM --> NN[Set Status to Complete]
+    end
+    
+    G -.-> AA
