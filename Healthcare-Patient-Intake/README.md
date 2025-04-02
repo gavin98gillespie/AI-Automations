@@ -67,13 +67,7 @@ Each patient interaction generates a detailed document containing the complete i
 - **Status Tracking:** Each record includes a status field to track review progress
 
 ## Demo
-[Link to video demonstration]
-
-## Screenshots
-[Include screenshots of each component]
-
-## Setup Instructions
-[Detailed setup instructions for each component]
+[Link to video demonstration] Coming Soon!
 
 ## Future Enhancements
 - Integration with EHR systems
