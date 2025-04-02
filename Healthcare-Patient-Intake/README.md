@@ -30,7 +30,7 @@ An AI-powered conversation collects patient information prior to their visit. Th
 
 ## Web Interface
 
-The patient interaction is handled through a custom web interface built with Lovable.
+The patient interaction is handled through a custom web interface built with Lovable. This is just for demonstration purposes. 
 
 ![Web Interface Screenshot](assets/Healthcare_AI_Webpage.png)
 
