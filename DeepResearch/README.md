@@ -44,6 +44,10 @@ Higher values produce more comprehensive research but increase processing time.
 
 Check out an [example](assets/example-report.pdf) of a sample research output.
 
+## Notion Database
+
+![Notion Database](assets/DeepResearch-Notion-Database.png)
+
 ## Customization
 
 The workflow can be customized in several ways:
