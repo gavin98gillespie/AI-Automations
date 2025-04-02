@@ -15,7 +15,9 @@ DeepResearch is an advanced n8n workflow that automates comprehensive research o
 
 ## How It Works
 
-![Workflow Architecture](assets/workflow-diagram.png)
+![Workflow Architecture](assets/n8n-workflow-1.png)
+
+![Workflow Architecture](assets/n8n-workflow-2.png)
 
 DeepResearch operates in several stages:
 
