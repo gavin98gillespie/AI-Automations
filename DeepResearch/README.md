@@ -42,7 +42,7 @@ Higher values produce more comprehensive research but increase processing time.
 
 ## Example Research
 
-Check out an [example](assets/example_report.md.pdf) of a sample research output.
+Check out an [example](assets/example-report.pdf) of a sample research output.
 
 ## Customization
 
