@@ -1,6 +1,6 @@
 # DeepResearch: Automated Multi-Stage Research Workflow
 
-![DeepResearch Banner](assets/diagram-description.mermaid)
+![DeepResearch Workflow Diagram](assets/diagram-description.mermaid)
 
 DeepResearch is an advanced n8n workflow that automates comprehensive research on any topic through recursive exploration, multi-source analysis, and AI-powered synthesis. Inspired by capabilities similar to OpenAI's deep research, this workflow conducts hours of research in minutes.
 
