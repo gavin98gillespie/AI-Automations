@@ -26,13 +26,6 @@ The workflow consists of these key components:
 3. **Email Tools**: Multiple specialized nodes for different Gmail operations
 4. **Response Handler**: Returns results or error messages to the parent workflow
 
-## Setup Requirements
-
-- n8n instance with the workflow imported
-- OpenAI API credentials
-- Gmail OAuth2 credentials with appropriate permissions
-- Connection to the parent Personal Assistant workflow
-
 ## Usage Examples
 
 The agent can handle natural language requests like:
@@ -79,13 +72,6 @@ The workflow consists of these key components:
 2. **AI Agent**: Processes natural language requests using OpenAI GPT-4o
 3. **Calendar Tools**: Multiple specialized nodes for different Google Calendar operations
 4. **Response Handler**: Returns results or error messages to the parent workflow
-
-## Setup Requirements
-
-- n8n instance with the workflow imported
-- OpenAI API credentials
-- Google Calendar OAuth2 credentials with appropriate permissions
-- Connection to the parent Personal Assistant workflow
 
 ## Usage Examples
 
