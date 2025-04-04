@@ -55,6 +55,7 @@ The workflow can be customized in several ways:
 - Modify prompts to change research style and focus
 - Add additional data sources
 - Customize report formatting
+- Integrate with other n8n workflows to trigger DeepResearch
 - Integrate with other systems beyond Notion
 
 ## Acknowledgements
