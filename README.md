@@ -15,7 +15,7 @@ An AI-powered system that automates the patient intake process for healthcare cl
 - Pre-appointment information access for healthcare providers
 - Integration with Notion for organized patient records
 
-### [Personal-AI-Assistant](./personal-assistant)
+### [Personal-AI-Agent](./Personal AI Agent)
 
 A comprehensive Telegram-based AI assistant that intelligently routes requests to specialized tools for email management, calendar organization, and in-depth research. This automation creates a seamless interface for handling multiple productivity tasks through natural language requests.
 
