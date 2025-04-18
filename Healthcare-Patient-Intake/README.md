@@ -36,7 +36,7 @@ The patient interaction is handled through a custom web interface built with Lov
 
 ## n8n Workflow
 
-The automation is powered by an n8n workflow that handles the patient data processing and Notion document creation. You can view the workflow [here](n8n-workflow/Healthcare_AI_Notion.json).
+The automation is powered by an n8n workflow that handles the patient data processing and Notion document creation. 
 
 ![n8n Workflow Screenshot](assets/Healthcare_AI_Workflow.png)
 
