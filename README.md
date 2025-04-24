@@ -15,6 +15,16 @@ An AI-powered system that automates the patient intake process for healthcare cl
 - Pre-appointment information access for healthcare providers
 - Integration with Notion for organized patient records
 
+### [Real-Estate-AI-Agent](./Real-Estate-AI-Agent)
+An automated workflow that analyzes real estate listings, calculates investment metrics, and sends daily reports via email to help investors make data-driven decisions.
+
+**Key Features:**
+- Automated property search using Zillow API with configurable criteria
+- Investment metric calculations (ROI, Cap Rate, Cash Flow, etc.)
+- AI-powered analysis and property recommendations
+- Daily email reports highlighting top investment opportunities
+- Google Sheets integration for historical data tracking
+
 ### [Personal-AI-Agent](./Personal-AI-Agent)
 
 A comprehensive Telegram-based AI assistant that intelligently routes requests to specialized tools for email management, calendar organization, and in-depth research. This automation creates a seamless interface for handling multiple productivity tasks through natural language requests.
